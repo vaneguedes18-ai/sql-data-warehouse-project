@@ -108,4 +108,11 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## 💡 About Me
+Hi there! I'm Vanessa Guedes. I am a Data Analyst with experience transforming information into actionable insights to support strategic 
+decision-making. I specialize in tools such as Power BI, SQL, and advanced Excel, applying analytical methods to identify patterns, 
+optimize processes, and deliver clear and impactful reports.
+
+📎 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/vanessa-guedes-53b234129/
+
 
